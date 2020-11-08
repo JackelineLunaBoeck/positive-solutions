@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Base de datos en firebase, link de produccion
+https://positivesolution-f40a1.firebaseapp.com/login
